@@ -1,0 +1,22 @@
+[
+  {
+    "id": "doc_1",
+    "title": "Industrial IoT in Manufacturing",
+    "content": "Smart factory systems leverage IoT sensors to capture real-time operational data, machine performance, and overall equipment effectiveness (OEE)."
+  },
+  {
+    "id": "doc_2",
+    "title": "Predictive Maintenance Algorithms",
+    "content": "Using machine learning and sensor telemetry to predict machine breakdowns before they cause unplanned downtime in assembly lines."
+  },
+  {
+    "id": "doc_3",
+    "title": "Natural Language Processing and RAG",
+    "content": "Retrieval-Augmented Generation relies on dense vector search to retrieve relevant context chunks for Large Language Models."
+  },
+  {
+    "id": "doc_4",
+    "title": "Hybrid Search Architectures",
+    "content": "Combining sparse BM25 term matching with dense embedding vector similarity using Reciprocal Rank Fusion provides superior search precision."
+  }
+]
